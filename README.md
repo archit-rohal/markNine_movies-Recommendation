@@ -1,6 +1,6 @@
-# markNine_movies-Recommendation
-### Movies recommendation app in ReactJS as part of Mark Nine of levelZero of neogcamp
+#### markNine_movies-Recommendation
+### Movies recommendation app in ReactJS.
 
-#### The ReactJS app shows recommendations of Hollywood movies in the genres of 'Action', 'Sci-Fi' and 'Fantasy' along with the corresponding ratings.
+#### This app shows recommendations of Hollywood movies in the genres of 'Action', 'Sci-Fi' and 'Fantasy' along with the corresponding ratings.
 
-The movies are hand-picked and you'll thank me later if you decide to sit one through.
+The movies are hand-picked and you'll thank me later if you ever decide to sit one through.
